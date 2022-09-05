@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/loyorentcar/static/css/main.9c4ba097.css",
+    "main.css": "/loyorentcar/static/css/main.0fc48978.css",
     "main.js": "/loyorentcar/static/js/main.25fadaec.js",
     "static/js/787.6e4d2f26.chunk.js": "/loyorentcar/static/js/787.6e4d2f26.chunk.js",
     "static/media/cars.jpg": "/loyorentcar/static/media/cars.87974247395d46b1b242.jpg",
@@ -16,12 +16,12 @@
     "static/media/five-star.png": "/loyorentcar/static/media/five-star.1066230cd92fb7c6f681.png",
     "static/media/cheap-price.png": "/loyorentcar/static/media/cheap-price.23d792e249e1bbb73fc9.png",
     "index.html": "/loyorentcar/index.html",
-    "main.9c4ba097.css.map": "/loyorentcar/static/css/main.9c4ba097.css.map",
+    "main.0fc48978.css.map": "/loyorentcar/static/css/main.0fc48978.css.map",
     "main.25fadaec.js.map": "/loyorentcar/static/js/main.25fadaec.js.map",
     "787.6e4d2f26.chunk.js.map": "/loyorentcar/static/js/787.6e4d2f26.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c4ba097.css",
+    "static/css/main.0fc48978.css",
     "static/js/main.25fadaec.js"
   ]
 }
